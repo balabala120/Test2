@@ -1,0 +1,7 @@
+﻿  0518MFC2Dlg.cpp
+d:\github_test2\test2\0518mfc2\0518mfc2\0518mfc2dlg.cpp(110): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\github_test2\test2\0518mfc2\0518mfc2\0518mfc2dlg.cpp(111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\github_test2\test2\0518mfc2\0518mfc2\0518mfc2dlg.cpp(115): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\github_test2\test2\0518mfc2\0518mfc2\0518mfc2dlg.cpp(122): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  0518MFC2.vcxproj -> D:\GitHub_test2\Test2\0518MFC2\Debug\0518MFC2.exe
+  0518MFC2.vcxproj -> D:\GitHub_test2\Test2\0518MFC2\Debug\0518MFC2.pdb (Partial PDB)
